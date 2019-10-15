@@ -1,62 +1,62 @@
 [
   {
     "id": 1,
-    "image": "/assets/images/beth.png",
+    "image": "https://picsum.photos/200/300?random=1",
     "clicked": false
   },
   {
     "id": 2,
-    "image": "/assets/images/birdperson.png",
+    "image": "https://picsum.photos/200/300?random=2",
     "clicked": false
   },
   {
     "id": 3,
-    "image": "/assets/images/evilmorty.png",
+    "image": "https://picsum.photos/200/300?random=3",
     "clicked": false
   },
   {
     "id": 4,
-    "image": "/assets/images/gianthead.png",
+    "image": "https://picsum.photos/200/300?random=4",
     "clicked": false
   },
   {
     "id": 5,
-    "image": "/assets/images/goldenford.png",
+    "image": "https://picsum.photos/200/300?random=5",
     "clicked": false
   },
   {
     "id": 6,
-    "image": "/assets/images/jerry.png",
+    "image": "https://picsum.photos/200/300?random=6",
     "clicked": false
   },
   {
     "id": 7,
-    "image": "/assets/images/jessica.png",
+    "image": "https://picsum.photos/200/300?random=7",
     "clicked": false
   },
   {
     "id": 8,
-    "image": "/assets/images/meeseeks.png",
+    "image": "https://picsum.photos/200/300?random=8",
     "clicked": false
   },
   {
     "id": 9,
-    "image": "/assets/images/morty.png",
+    "image": "https://picsum.photos/200/300?random=9",
     "clicked": false
   },
   {
     "id": 10,
-    "image": "/assets/images/mr.png",
+    "image": "https://picsum.photos/200/300?random=10",
     "clicked": false
   },
   {
     "id": 11,
-    "image": "/assets/images/rick.png",
+    "image": "https://picsum.photos/200/300?random=11",
     "clicked": false
   },
   {
     "id": 12,
-    "image": "/assets/images/summer.png",
+    "image": "https://picsum.photos/200/300?random=12",
     "clicked": false
   }
 ]
